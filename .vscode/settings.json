@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.lintTask.enable": true,
+    "editor.formatOnType": true
+}
